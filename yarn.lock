@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"ajax@^0.0.4":
+  "integrity" "sha1-tvTOi9WQ9fS6Lc/eEd54nyCfJCM="
+  "resolved" "https://registry.npmjs.org/ajax/-/ajax-0.0.4.tgz"
+  "version" "0.0.4"
+  dependencies:
+    "underscore" ""
+
 "axios@^0.24.0":
   "integrity" "sha512-Q6cWsys88HoPgAaFAVUb0WpPk0O8iTeisR9IMqy9G8AbO4NlpVknrnQS03zzF9PGAWgO3cgletO3VjV/P7VztA=="
   "resolved" "https://registry.npmjs.org/axios/-/axios-0.24.0.tgz"
@@ -157,6 +164,11 @@
     "inpath" "~1.0.2"
     "pidof" "~1.0.2"
     "read" "~1.0.3"
+
+"underscore@":
+  "integrity" "sha512-hzSoAVtJF+3ZtiFX0VgfFPHEDRm7Y/QPjGyNo4TVdnDTdft3tr8hEkD25a1jC+TjTuE7tkHGKkhwCgs9dgBB2g=="
+  "resolved" "https://registry.npmjs.org/underscore/-/underscore-1.13.1.tgz"
+  "version" "1.13.1"
 
 "which@^2.0.1":
   "integrity" "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA=="
